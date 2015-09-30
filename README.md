@@ -10,7 +10,7 @@ In this lesson, we'll walk through the steps you need to take to solve a lab on 
 
 To start working on a lab on Learn, you need get it opened up on your computer. There are a couple different ways to do this:
 
-1. The first, and simplest, is to just click the `Open` button in the toolbar at the top of a lab on Learn—don't try to do this just yet, you'll do this in the next lesson. When you click Open, you'll notice a Terminal window briefly pop up, then your text editor will open with the contents of the lab's directory. You're now ready to start coding to solve the lab. Note: You can use the `Open` button in the Learn OSX app to the same effect. 
+1. The first, and simplest, is to just click the `Open` button in the toolbar at the top of a lab on Learn—don't try to do this just yet, you'll do this in the next lesson. When you click Open, you'll notice a Terminal window briefly pop up, then your text editor will open with the contents of the lab's directory. You're now ready to start coding to solve the lab. 
 2. Alternatively, from a terminal window, you can type the `learn open` command which will open up your current lab 
 
 You'll notice that on Learn, the light labelled "Fork" will turn green after you've opened up a lab.
