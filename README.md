@@ -39,3 +39,14 @@ In order to submit your solution to Learn, just run `learn submit`. That's all i
 You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted. 
 
 So what's going on here? Behind the scenes, the Learn CLI is (1) using the `git push` command to push your coded solution to Github and (2) opening up a Pull Request on the original (un-forked) repository. The cool thing about this is that in the process of solving labs on Learn, you're building up your Github profile!
+
+## Bringing it all together
+
+In summary, your workflow for solving a lab will typically be as follows: 
+
+1. Open the lab by pressing the Open button on Learn
+2. Write code on your computer to solve the lab
+3. Run `learn` a bunch of times until you get all the tests to pass
+4. Run `learn submit` to submit your solution to Learn
+
+This is very similar to the workflow that real developers use every day to build, test and deploy software. 
