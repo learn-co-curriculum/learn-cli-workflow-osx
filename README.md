@@ -18,11 +18,18 @@ Let's walk through the process. For now, just read along. **You don't need to ac
 
 **Key takeaway: Use the Open button to get started with a lab.**
 
-Getting to work on a new lab is very simple: you'll want to simply click the "Open" button on the toolbar. This automatically will invoke the Learn CLI (a command line application we built to make things) and will get this lab onto your computer in a state where you can start working on it. You may see your Terminal flash open then your text editor will open with the content of the lab.
+Getting to work on a new lab is very simple: you'll want to simply click the "Open" button on the toolbar.
+
+![Learn Open](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)
+
+This automatically will invoke the Learn CLI (a command line application we built to make things) and will get this lab onto your computer in a state where you can start working on it. You may see your Terminal flash open then your text editor will open with the content of the lab.
 
 Pro Tip #1: If you ever need to re-open a lab you've previously opened, you can just hit the Open button again.  
 
-Pro Tip #2: Another way to open the current lab you should be working on, is to use the Learn CLI yourself by running the `learn open` command from your terminal. This is exactly what the Open button is doing behind the scenes.  
+Pro Tip #2: Another way to open the current lab you should be working on, is to use the Learn CLI yourself by running the `learn open` command from your terminal. This is exactly what the Open button is doing behind the scenes.
+
+![Learn Open](https://dl.dropboxusercontent.com/s/4cq930ubw2iwz40/2015-10-02%20at%204.09%20PM.png
+) 
 
 ### What does the Open button do?
 
@@ -32,7 +39,9 @@ As described above, when you hit the Open button in your browser, Learn actually
 2. It then "clones" that copy of the repo down to your computer automatically, so that you have a local copy of the source code to work with. This is what you'll be using to solve the lab.
 3. It then "cd's" into the lab's directory on your computer and opens your text editor with the contents of the lab
 
-At this point, you'll be ready to start coding your solution.
+![Work mode](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)
+
+This setup, a terminal in the lab's directory and the lab directory open in an editor like Sublime or Atom, that's the state you want to be in when working on a lab on Learn. It means you're ready.
 
 ## Solving a Lab
 
