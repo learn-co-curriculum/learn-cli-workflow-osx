@@ -178,3 +178,5 @@ Use `learn test` to run your local tests.
 Use `learn submit` to submit your solution.**
 
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
+
+<a href='https://learn.co/lessons/learn-cli-workflow-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
