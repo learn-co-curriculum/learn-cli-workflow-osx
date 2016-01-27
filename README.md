@@ -20,7 +20,7 @@ Let's walk through the process. For now, just read along. **You don't need to ac
 
 Getting to work on a new lab is very simple: you'll want to simply click the "Open" button on the toolbar.
 
-![Learn Open](https://dl.dropboxusercontent.com/s/6hmrbrtcf0gssev/2015-09-30%20at%207.11%20PM.png)
+![Learn Open](https://s3-us-west-2.amazonaws.com/curriculum-content/intro-to-learn/learn_workflow_open.png)
 
 This automatically will invoke the Learn CLI (a command line application we built to make things) and will get this lab onto your computer in a state where you can start working on it. You may see your Terminal flash open then your text editor will open with the content of the lab.
 
@@ -28,8 +28,7 @@ Pro Tip #1: If you ever need to re-open a lab you've previously opened, you can 
 
 Pro Tip #2: Another way to open the current lab you should be working on, is to use the Learn CLI yourself by running the `learn open` command from your terminal. This is exactly what the Open button is doing behind the scenes.
 
-![Learn Open](https://dl.dropboxusercontent.com/s/4cq930ubw2iwz40/2015-10-02%20at%204.09%20PM.png
-) 
+![Learn Open](https://s3-us-west-2.amazonaws.com/curriculum-content/intro-to-learn/learn_workflow_terminal.png) 
 
 ### What does the Open button do?
 
@@ -135,7 +134,7 @@ Programming is never about getting it all right at once. Programming is like sol
 Follow this workflow: running tests, reading errors, writing code, saving code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, saving the code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're stuck or tired and just need some help, Ask a Question and the Learn community will be there for you.
 
 Eventually your local tests will pass and Learn will indicate your success.
-![Pass](https://dl.dropboxusercontent.com/s/36nudmkxwmvrow9/2015-10-01%20at%2011.38%20PM.png)
+![Pass](https://s3-us-west-2.amazonaws.com/curriculum-content/intro-to-learn/learn_workflow_local.png)
 
 On the left is a passing test run in the terminal. On the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
@@ -159,7 +158,7 @@ That's all it takes, you can run `learn submit` from any lab directory and your 
 
 You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted.
 
-![PR](https://dl.dropboxusercontent.com/s/zw5axlrl07e4yj3/2015-10-02%20at%201.25%20AM.png)
+![PR](https://s3-us-west-2.amazonaws.com/curriculum-content/intro-to-learn/learn_workflow_pr.png)
 
 ## What does `learn submit` do?
 
